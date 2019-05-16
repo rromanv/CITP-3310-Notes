@@ -2,5 +2,5 @@
 
 ## Survey of Programming Languages
 
-**Instructor:** Rodolfo Roman
+**Instructor:** Rodolfo Roman  
 ![Rodolfo Roman](./images/mypic.jpg)
