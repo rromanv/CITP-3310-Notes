@@ -3,4 +3,4 @@
 ## Survey of Programming Languages
 
 **Instructor:** Rodolfo Roman  
-![Rodolfo Roman](./images/mypic.jpg)
+![Rodolfo Roman](./mypic.jpg)
