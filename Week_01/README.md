@@ -4,13 +4,14 @@
 
 [Homebrew](https://brew.sh/) is the missing package manager for macOS, we are going to use it to install everythinf in the setup.
 
-1. Open the terminal
+- Open the terminal
 
-2. Paste this code
+  - In Finder (`CMD + Spacebar`), type Terminal
 
-```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+- Paste this code `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+### Use command
+
 
 ## Install Visual Studio Code
 
